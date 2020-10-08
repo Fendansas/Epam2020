@@ -2,8 +2,16 @@ package by.danilchik;
 
 public class Calculator {
     public static void main(String[] args) {
-        int x = 5;
-        System.out.println(x);
+
+        CalcLogic calcLogic = new CalcLogic();
+
+
+        System.out.println(calcLogic.minus(10,5));
+
+
+
+
+
 
     }
 

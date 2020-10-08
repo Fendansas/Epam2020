@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27da4ea4-26a6-48bb-b1ae-cfac5b0c5d7e" name="Default Changelist" comment="" />
+    <list default="true" id="27da4ea4-26a6-48bb-b1ae-cfac5b0c5d7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CalcLogic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalcLogic/src/main/java/by/danilchik/CalcLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalcLogic/src/test/java/TestServise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/src/main/java/by/danilchik/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/src/main/java/by/danilchik/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Calculator/target/" />
+    <ignored path="$PROJECT_DIR$/CalcLogic/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="238">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="18" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -28,8 +38,52 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Calculator/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="374">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CalcLogic/src/test/java/TestServise.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#testPlus_positiveFlow#0;class#TestServise#0" />
+                <element signature="method#testPlus_negativeFlow#0;class#TestServise#0" />
+                <element signature="method#testMinus_positiveFlow#0;class#TestServise#0" />
+                <element signature="method#testMinus_negativeFlow#0;class#TestServise#0" />
+                <element signature="method#testMinus_positiveFlow#1;class#TestServise#0" />
+                <element signature="method#testMinus_negativeFlow#1;class#TestServise#0" />
+                <element signature="method#testShare_positiveFlow#1;class#TestServise#0" />
+                <element signature="method#testShare_negativeFlow#1;class#TestServise#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CalcLogic/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CalcLogic/src/main/java/by/danilchik/CalcLogic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Calculator/src/main/java/by/danilchik/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="153">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -69,6 +123,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/CalcLogic/pom.xml" />
+        <option value="$PROJECT_DIR$/CalcLogic/src/main/java/by/danilchik/CalcLogic.java" />
+        <option value="$PROJECT_DIR$/Calculator/pom.xml" />
+        <option value="$PROJECT_DIR$/CalcLogic/src/test/java/TestServise.java" />
         <option value="$PROJECT_DIR$/Calculator/src/main/java/by/danilchik/Calculator.java" />
       </list>
     </option>
@@ -80,7 +138,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="225" />
     <option name="y" value="224" />
     <option name="width" value="1319" />
@@ -98,6 +156,56 @@
             <path>
               <item name="Epam2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="Epam2020" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Epam2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Epam2020" type="462c0819:PsiDirectoryNode" />
+              <item name="CalcLogic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Epam2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Epam2020" type="462c0819:PsiDirectoryNode" />
+              <item name="CalcLogic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Epam2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Epam2020" type="462c0819:PsiDirectoryNode" />
+              <item name="CalcLogic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Epam2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Epam2020" type="462c0819:PsiDirectoryNode" />
+              <item name="CalcLogic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Epam2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Epam2020" type="462c0819:PsiDirectoryNode" />
+              <item name="CalcLogic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="danilchik" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Epam2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Epam2020" type="462c0819:PsiDirectoryNode" />
+              <item name="CalcLogic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Epam2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Epam2020" type="462c0819:PsiDirectoryNode" />
+              <item name="CalcLogic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Epam2020" type="b2602c69:ProjectViewProjectNode" />
@@ -144,7 +252,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Calculator" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -161,6 +270,67 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestServise.testMultiply_negativeFlow">
+    <configuration name="TestServise.testMinus_positiveFlow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalcLogic" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestServise" />
+      <option name="METHOD_NAME" value="testMinus_positiveFlow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestServise.testMultiply_negativeFlow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalcLogic" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestServise" />
+      <option name="METHOD_NAME" value="testMultiply_negativeFlow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestServise.testMultiply_positiveFlow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalcLogic" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestServise" />
+      <option name="METHOD_NAME" value="testMultiply_positiveFlow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestServise.testShare_negativeFlow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalcLogic" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestServise" />
+      <option name="METHOD_NAME" value="testShare_negativeFlow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestServise.testShare_positiveFlow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalcLogic" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestServise" />
+      <option name="METHOD_NAME" value="testShare_positiveFlow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestServise.testMultiply_negativeFlow" />
+        <item itemvalue="JUnit.TestServise.testMultiply_positiveFlow" />
+        <item itemvalue="JUnit.TestServise.testShare_negativeFlow" />
+        <item itemvalue="JUnit.TestServise.testShare_positiveFlow" />
+        <item itemvalue="JUnit.TestServise.testMinus_positiveFlow" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\user\AppData\Roaming\Subversion</configuration>
@@ -204,10 +374,43 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="TestServise - 2020.10.08 at 23h 37m 41s.xml">
+      <configuration name="TestServise" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestServise - 2020.10.08 at 23h 39m 05s.xml">
+      <configuration name="TestServise" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestServise_testMinus_positiveFlow - 2020.10.08 at 23h 42m 07s.xml">
+      <configuration name="TestServise.testMinus_positiveFlow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestServise_testMinus_positiveFlow - 2020.10.08 at 23h 42m 31s.xml">
+      <configuration name="TestServise.testMinus_positiveFlow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestServise_testMinus_positiveFlow - 2020.10.08 at 23h 43m 01s.xml">
+      <configuration name="TestServise.testMinus_positiveFlow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestServise_testShare_positiveFlow - 2020.10.08 at 23h 45m 10s.xml">
+      <configuration name="TestServise.testShare_positiveFlow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestServise_testShare_positiveFlow - 2020.10.08 at 23h 45m 35s.xml">
+      <configuration name="TestServise.testShare_positiveFlow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestServise_testShare_negativeFlow - 2020.10.08 at 23h 45m 40s.xml">
+      <configuration name="TestServise.testShare_negativeFlow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestServise_testMultiply_positiveFlow - 2020.10.08 at 23h 48m 24s.xml">
+      <configuration name="TestServise.testMultiply_positiveFlow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestServise_testMultiply_negativeFlow - 2020.10.08 at 23h 48m 28s.xml">
+      <configuration name="TestServise.testMultiply_negativeFlow" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11369193" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19070904" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -215,16 +418,17 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2080537" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4987775" weight="0.32885906" />
       <window_info anchor="bottom" id="SVN Repositories" order="8" sideWeight="0.49938875" weight="0.32997763" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4987775" visible="true" weight="0.32997763" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4987775" weight="0.2181208" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5012225" side_tool="true" weight="0.32997763" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -284,10 +488,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="08.10" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Calculator/pom.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="238">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="18" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -298,17 +502,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Calculator/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalcLogic/src/test/java/TestServise.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#testPlus_positiveFlow#0;class#TestServise#0" />
+            <element signature="method#testPlus_negativeFlow#0;class#TestServise#0" />
+            <element signature="method#testMinus_positiveFlow#0;class#TestServise#0" />
+            <element signature="method#testMinus_negativeFlow#0;class#TestServise#0" />
+            <element signature="method#testMinus_positiveFlow#1;class#TestServise#0" />
+            <element signature="method#testMinus_negativeFlow#1;class#TestServise#0" />
+            <element signature="method#testShare_positiveFlow#1;class#TestServise#0" />
+            <element signature="method#testShare_negativeFlow#1;class#TestServise#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalcLogic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalcLogic/src/main/java/by/danilchik/CalcLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Calculator/src/main/java/by/danilchik/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
