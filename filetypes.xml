@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="firstJsp" type="JSP" />
+      <mapping pattern="Users" type="XHTML" />
     </extensionMap>
   </component>
 </application>
