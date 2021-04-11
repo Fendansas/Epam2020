@@ -6,5 +6,6 @@
     <resource url="http://xmlns.jcp.org/xml/ns/javaee" location="$USER_HOME$/.IdeaIC2019.1/system/extResources/5c989588_web-app_4_0.xsd" />
     <resource url="http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" location="$USER_HOME$/.IdeaIC2019.1/system/extResources/27c071c8_web-app_3_1.xsd" />
     <resource url="urn:metadata.tooling.soap.sforce.com" location="$APPLICATION_PLUGINS_DIR$/IlluminatedCloud2/lib/IlluminatedCloud.jar!/xsd/metadata.xsd" />
+    <ignored-resource url="https://www.puppycrawl.com/dtds/configuration_1_2.dtd" />
   </component>
 </application>
