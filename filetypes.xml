@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="firstJsp" type="JSP" />
+      <mapping ext="php" type="PHP" />
+      <mapping pattern=".php" type="PLAIN_TEXT" />
       <mapping ext="prooerties" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping pattern="Users" type="XHTML" />
